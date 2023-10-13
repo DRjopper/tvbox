@@ -21,6 +21,14 @@ https://raw.githubusercontent.com/DRjopper/tvbox/main/%E4%BC%98%E9%80%89%E5%BA%9
 
 https://at--jopper0cn.repl.co/d/%E5%A4%A9%E7%BF%BC%E4%BA%91%E7%9B%98/%E4%BC%98%E9%80%89%E5%BA%93.json
 
+![Training Partner logo](https://raw.githubusercontent.com/DRjopper/tvbox/main/how/1.jpg)
+
+![Training Partner logo](https://raw.githubusercontent.com/DRjopper/tvbox/main/how/2.jpg)
+
+![Training Partner logo](https://raw.githubusercontent.com/DRjopper/tvbox/main/how/3.jpg)
+
+![Training Partner logo](https://raw.githubusercontent.com/DRjopper/tvbox/main/how/4.jpg)
+
 二、影视仓使用方法：
 
 1、影视仓app下载地址:
@@ -34,6 +42,12 @@ https://at--jopper0cn.repl.co/d/%E5%A4%A9%E7%BF%BC%E4%BA%91%E7%9B%98/%E5%BD%B1%E
 https://raw.githubusercontent.com/DRjopper/tvbox/main/final.txt
 
 https://at--jopper0cn.repl.co/d/%E5%A4%A9%E7%BF%BC%E4%BA%91%E7%9B%98/final.txt
+
+![Training Partner logo](https://raw.githubusercontent.com/DRjopper/tvbox/main/how/5.jpg)
+
+![Training Partner logo](https://raw.githubusercontent.com/DRjopper/tvbox/main/how/6.jpg)
+
+![Training Partner logo](https://raw.githubusercontent.com/DRjopper/tvbox/main/how/7.jpg)
 
 # 日志
 
