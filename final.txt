@@ -16,7 +16,7 @@
         },
         {
             "url": "https://pan.shangui.cc/f/v2Lsk/yyfx.json",
-            "name": "小雅合集"
+            "name": "小雅合集 入口在ALIST网盘接口"
         },
         {
             "url": "https://at--jopper0cn.repl.co/d/%E5%A4%A9%E7%BF%BC%E4%BA%91%E7%9B%98/%E4%BC%98%E9%80%89%E5%BA%93.json",
