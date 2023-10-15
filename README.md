@@ -49,6 +49,12 @@ https://at--jopper0cn.repl.co/d/%E5%A4%A9%E7%BF%BC%E4%BA%91%E7%9B%98/final.txt
 
 ![Training Partner logo](https://raw.githubusercontent.com/DRjopper/tvbox/main/how/7.jpg)
 
+三、本地部署
+
+1、可以把配置文件部署到本地，TVBOX及影视仓读取本地配置文件（JSON）即可。
+
+2、本地部署后，编辑JSON文件，将第一个接口换成自己的小雅地址，便可以挂载本地小雅。
+
 # 日志
 
 2023.09.26 
