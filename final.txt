@@ -13,7 +13,11 @@
         {
             "url": "http://198.12.73.129:5678/tvbox/my.json",
             "name": "小雅"
-        },       
+        },
+        {
+            "url": "https://pan.shangui.cc/f/v2Lsk/yyfx.json",
+            "name": "小雅合集"
+        },
         {
             "url": "https://at--jopper0cn.repl.co/d/%E5%A4%A9%E7%BF%BC%E4%BA%91%E7%9B%98/%E4%BC%98%E9%80%89%E5%BA%93.json",
             "name": "整合接口"
