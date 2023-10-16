@@ -13,11 +13,15 @@ tvbox/影视仓接口
 
 https://raw.githubusercontent.com/DRjopper/tvbox/main/TVBOX.apk
 
+https://raw.staticdn.net/DRjopper/tvbox/main/TVBOX.apk
+
 https://at--jopper0cn.repl.co/d/%E5%A4%A9%E7%BF%BC%E4%BA%91%E7%9B%98/TVBOX.apk
 
 2、TVBOX配置地址：
 
 https://raw.githubusercontent.com/DRjopper/tvbox/main/%E4%BC%98%E9%80%89%E5%BA%93.json
+
+https://raw.staticdn.net/DRjopper/tvbox/main/%E4%BC%98%E9%80%89%E5%BA%93.json
 
 https://at--jopper0cn.repl.co/d/%E5%A4%A9%E7%BF%BC%E4%BA%91%E7%9B%98/%E4%BC%98%E9%80%89%E5%BA%93.json
 
@@ -35,11 +39,15 @@ https://at--jopper0cn.repl.co/d/%E5%A4%A9%E7%BF%BC%E4%BA%91%E7%9B%98/%E4%BC%98%E
 
 https://raw.githubusercontent.com/DRjopper/tvbox/main/%E5%BD%B1%E8%A7%86%E4%BB%93.apk
 
+https://raw.staticdn.net/DRjopper/tvbox/main/%E5%BD%B1%E8%A7%86%E4%BB%93.apk
+
 https://at--jopper0cn.repl.co/d/%E5%A4%A9%E7%BF%BC%E4%BA%91%E7%9B%98/%E5%BD%B1%E8%A7%86%E4%BB%93.apk
 
 2、影视仓配置地址：
 
 https://raw.githubusercontent.com/DRjopper/tvbox/main/final.txt
+
+https://raw.staticdn.net/DRjopper/tvbox/main/final.txt
 
 https://at--jopper0cn.repl.co/d/%E5%A4%A9%E7%BF%BC%E4%BA%91%E7%9B%98/final.txt
 
