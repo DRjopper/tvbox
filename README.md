@@ -15,15 +15,15 @@ https://raw.githubusercontent.com/DRjopper/tvbox/main/TVBOX.apk
 
 https://raw.staticdn.net/DRjopper/tvbox/main/TVBOX.apk
 
-https://at--jopper0cn.repl.co/d/%E5%A4%A9%E7%BF%BC%E4%BA%91%E7%9B%98/TVBOX.apk
+https://at--jopper0cn.repl.co/d/tianyi/TVBOX.apk
 
 2、TVBOX配置地址：
 
-https://raw.githubusercontent.com/DRjopper/tvbox/main/%E4%BC%98%E9%80%89%E5%BA%93.json
+https://raw.githubusercontent.com/DRjopper/tvbox/main/231016.json
 
-https://raw.staticdn.net/DRjopper/tvbox/main/%E4%BC%98%E9%80%89%E5%BA%93.json
+https://raw.staticdn.net/DRjopper/tvbox/main/231016.json
 
-https://at--jopper0cn.repl.co/d/%E5%A4%A9%E7%BF%BC%E4%BA%91%E7%9B%98/%E4%BC%98%E9%80%89%E5%BA%93.json
+https://https://at--jopper0cn.repl.co/d/tianyi/231016.json
 
 ![Training Partner logo](https://raw.githubusercontent.com/DRjopper/tvbox/main/how/1.jpg)
 
@@ -37,11 +37,11 @@ https://at--jopper0cn.repl.co/d/%E5%A4%A9%E7%BF%BC%E4%BA%91%E7%9B%98/%E4%BC%98%E
 
 1、影视仓app下载地址:
 
-https://raw.githubusercontent.com/DRjopper/tvbox/main/%E5%BD%B1%E8%A7%86%E4%BB%93.apk
+https://raw.githubusercontent.com/DRjopper/tvbox/main/yingshicang.apk
 
-https://raw.staticdn.net/DRjopper/tvbox/main/%E5%BD%B1%E8%A7%86%E4%BB%93.apk
+https://raw.staticdn.net/DRjopper/tvbox/main/yingshicang.apk
 
-https://at--jopper0cn.repl.co/d/%E5%A4%A9%E7%BF%BC%E4%BA%91%E7%9B%98/%E5%BD%B1%E8%A7%86%E4%BB%93.apk
+https://at--jopper0cn.repl.co/d/tianyi/yingshicang.apk
 
 2、影视仓配置地址：
 
@@ -49,7 +49,7 @@ https://raw.githubusercontent.com/DRjopper/tvbox/main/final.txt
 
 https://raw.staticdn.net/DRjopper/tvbox/main/final.txt
 
-https://at--jopper0cn.repl.co/d/%E5%A4%A9%E7%BF%BC%E4%BA%91%E7%9B%98/final.txt
+https://at--jopper0cn.repl.co/d/tianyi/final.txt
 
 ![Training Partner logo](https://raw.githubusercontent.com/DRjopper/tvbox/main/how/5.jpg)
 
@@ -81,7 +81,7 @@ https://at--jopper0cn.repl.co/d/%E5%A4%A9%E7%BF%BC%E4%BA%91%E7%9B%98/final.txt
 增加小雅合集线路。
 
 2023.10.16
-增加GITHUB镜像地址
+增加GITHUB镜像地址，更新下载及配置地址
 
 # 免责声明
 **本仓库或本仓库相关的仓库, 以下简称为本仓库**  
